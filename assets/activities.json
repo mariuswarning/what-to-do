@@ -1,0 +1,324 @@
+{
+  "items": [
+    {
+      "title": "Explore Locally",
+      "planning": "undef",
+      "overnight": "undef",
+      "items": [
+        {
+          "title": "Randonaut",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "TV-Tower",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Wasserstrassenkreuz",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Ice Cream",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "City Walk",
+          "planning": "false",
+          "overnight": "false"
+        }
+      ]
+    },
+    {
+      "title": "Hiking",
+      "planning": "undef",
+      "overnight": "undef",
+      "items": [
+        {
+          "title": "Hiller Moor",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Obernkirchen",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Burg Schaumburg",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Hohenstein",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Brocken",
+          "planning": "false",
+          "overnight": "True"
+        },
+        {
+          "title": "Hexentanzplatz",
+          "planning": "false",
+          "overnight": "True"
+        }
+      ]
+    },
+    {
+      "title": "City Visit",
+      "planning": "undef",
+      "overnight": "undef",
+      "items": [
+        {
+          "title": "Hannover",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Muenster",
+          "planning": "false",
+          "overnight": "undef"
+        },
+        {
+          "title": "Bielefeld",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Bremen",
+          "planning": "false",
+          "overnight": "true"
+        },
+        {
+          "title": "Hamburg",
+          "planning": "false",
+          "overnight": "true"
+        },
+        {
+          "title": "Berlin",
+          "planning": "false",
+          "overnight": "true"
+        },
+        {
+          "title": "Ruhrgebiet",
+          "planning": "false",
+          "overnight": "true"
+        },
+        {
+          "title": "Amsterdam",
+          "planning": "false",
+          "overnight": "true"
+        },
+        {
+          "title": "Bremerhaven",
+          "planning": "false",
+          "overnight": "true"
+        }
+      ]
+    },
+    {
+      "title": "Sport & Action",
+      "planning": "undef",
+      "overnight": "undef",
+      "items": [
+        {
+          "title": "Swimming",
+          "planning": "false",
+          "overnight": "false",
+          "items": [
+            {
+              "title": "H2O Herford",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Melittabad",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Atol",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Sommerbad",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Bückeburg Freibad",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Kanal",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Lake",
+              "planning": "false",
+              "overnight": "false"
+            }
+          ]
+        },
+        {
+          "title": "Ice Skating",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Roller Skating",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Canooing",
+          "planning": "undef",
+          "overnight": "false"
+        },
+        {
+          "title": "Climbing",
+          "planning": "false",
+          "overnight": "false",
+          "items": [
+            {
+              "title": "Rock Climbing",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Obstacle Course",
+              "planning": "false",
+              "overnight": "false"
+            }
+          ]
+        },
+        {
+          "title": "Bike Tour",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Plane Ride",
+          "planning": "true",
+          "overnight": "false"
+        },
+        {
+          "title": "Air Gliding",
+          "planning": "true",
+          "overnight": "false"
+        },
+        {
+          "title": "Bunjee-Jumping",
+          "planning": "true",
+          "overnight": "false"
+        },
+        {
+          "title": "skydiving",
+          "planning": "true",
+          "overnight": "false"
+        }
+      ]
+    },
+    {
+      "title": "Chill & Wellness",
+      "planning": "undef",
+      "overnight": "undef",
+      "items": [
+        {
+          "title": "SPA Day",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Home Care",
+          "planning": "false",
+          "overnight": "false",
+          "items": [
+            {
+              "title": "Massage Candle",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Bath",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Ambient Light and Chill Music",
+              "planning": "false",
+              "overnight": "false"
+            }
+          ]
+        },
+        {
+          "title": "Wellness Hotel",
+          "planning": "true",
+          "overnight": "true"
+        },
+        {
+          "title": "SPA Day",
+          "planning": "true",
+          "overnight": "false"
+        }
+      ]
+    },
+    {
+      "title": "Location",
+      "planning": "undef",
+      "overnight": "undef",
+      "items": [
+        {
+          "title": "Steinhuder Meer",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Duemmer",
+          "planning": "false",
+          "overnight": "false"
+        },
+        {
+          "title": "Home Stuff",
+          "planning": "false",
+          "overnight": "false",
+          "items": [
+            {
+              "title": "Netflix",
+              "planning": "false",
+              "overnight": "false"
+            },
+            {
+              "title": "Games",
+              "planning": "false",
+              "overnight": "false"
+            }
+          ]
+        },
+        {
+          "title": "Nordsee",
+          "planning": "true",
+          "overnight": "true"
+        },
+        {
+          "title": "Ostsee",
+          "planning": "true",
+          "overnight": "true"
+        },
+        {
+          "title": "Bodensee",
+          "planning": "true",
+          "overnight": "true"
+        }
+      ]
+    }
+  ]
+}
